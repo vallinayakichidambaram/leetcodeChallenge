@@ -1,5 +1,5 @@
 //Hashmap or Hashfunction = key value pairs
-
+//https://medium.com/@lelianto.eko/hashmap-in-ja-3a5c03a8febc
 var twoSumRevised = (nums, target) => {
     let pairs = {};
     let arr = [];
