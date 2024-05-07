@@ -20,3 +20,5 @@ var twoSumRevised = (nums, target) => {
 }
 
 console.log(twoSumRevised([2,7,11,15],9));
+
+//Time Complexity O(N)
